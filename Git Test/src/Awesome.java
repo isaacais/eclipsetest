@@ -2,7 +2,7 @@ public class Awesome
 {
 	public static void main(String args[])
 	{
-		System.out.println("_ascf___");
+		System.out.println("_ascf___NATE ROCKS____");
 		Try.print();
 		new Thingy();
 	}
