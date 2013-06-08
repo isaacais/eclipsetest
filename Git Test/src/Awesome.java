@@ -69,8 +69,6 @@ public class Awesome
 				y = -scale / 2;
 			}
 			
-			System.out.println(x + ", " + y);
-			
 			Display.update();
 			Display.sync(60);
 		}
