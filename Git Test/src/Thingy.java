@@ -1,8 +1,8 @@
 
 public class Thingy
 {
-	public static void main(String args[])
+	public Thingy()
 	{
-		
+		Try.print();
 	}
 }
