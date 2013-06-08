@@ -5,6 +5,7 @@ public class Awesome
 		System.out.println("_ascf___NATE ROCKS____");
 		Try.print();
 		new Thingy();
+		System.out.println("HI NATE");
 	}
 }
 
