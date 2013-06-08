@@ -6,3 +6,4 @@ public class Awesome
 		System.out.println("_asdfa_");
 	}
 }
+
